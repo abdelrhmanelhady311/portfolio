@@ -1,0 +1,42 @@
+body {
+    background-image: url(thumb-1920-400812.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   }
+.test {
+   color: rgb(235, 231, 224);
+   border-color: rgba(220, 14, 14, 0.342);
+    border-style: dashed dashed solid solid;
+    border-radius: 55px;
+     border-width: 30px;
+     max-width: 1450px; 
+     width: 100%;
+     text-align: center;
+     display: inline-block;
+     visibility: visible;
+
+}
+.-teest{
+   padding-right: 100px;
+   padding-left: 300px;
+   padding-top: 100px;
+   padding-bottom: 100px;
+    }
+input{
+    color: rgba(220, 14, 14, 0.645);
+}
+
+.Email{
+padding-left: 60px
+} 
+.username,
+.password {
+    padding-left: 50px;
+}
+
+
+
+
+
